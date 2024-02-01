@@ -1,0 +1,9 @@
+**/logs
+**/.pytest_cache
+**/__pycache__
+**/.idea
+geckodriver.exe
+geckodriver.log
+msedgedriver.exe
+chromedriver.exe
+sbisplugin-setup-web.exe
